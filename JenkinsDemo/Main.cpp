@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Jenkins Demo" << std::endl;
+	std::cout << "Jenkins Demo!" << std::endl;
 	return 0;
 }
